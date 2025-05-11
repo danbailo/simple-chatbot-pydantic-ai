@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 
 <p align="center">
     <em>"A simple chatbot using Pydantic AI and FastAPI"</em>
@@ -15,6 +15,15 @@ enjoy and... Python 🐍 for everthing 😄
 
 ## Preparing project
 This project uses [uv](https://github.com/astral-sh/uv) as package and project manager. Just install `uv` then `make install` and you will able to develop and run this project!
+
+## Running Project
+
+After install the project, just type in cli to start the API.
+
+```bash
+fastapi dev simple_chatbot_pydantic_ai/main.py
+```
+
 
 ## Make
 The project uses a [Makefile](Makefile) to facilitate project installation, lint execution, typing and testing.
