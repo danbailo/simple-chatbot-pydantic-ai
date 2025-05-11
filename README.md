@@ -1,7 +1,7 @@
 # chatbot
 
 <p align="center">
-    <em>"A simple chatbot using Pydantic AI and FastAPI"</em>
+    <em>"A simple chatbot using PydanticAI and FastAPI"</em>
 </p>
 <p align="center">
 <a href="https://github.com/danbailo/simple-chatbot-pydantic-ai/actions/workflows/linting.yaml?query=branch=main" target="_blank">
